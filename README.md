@@ -1,6 +1,6 @@
 # Academic/Internship/Work Experiences 
 
-High-level overview of projects I have worked on. Code available on request.
+High-level overview of non-confidential projects I have worked on.
  
 ## Computer Vision / Machine Learning Engineer Intern | imec / ILVO / UGent 
 🗓️ 25-09-2023 – 06-09-2024 
